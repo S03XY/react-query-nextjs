@@ -1,1 +1,1 @@
-# React Query with Nextjs
+### Tanstack React Query With Nextjs
